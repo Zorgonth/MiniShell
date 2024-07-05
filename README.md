@@ -1,0 +1,1 @@
+MiniShell is a collaborative project executed by a team of two. This simple UNIX shell implementation written in C provides a command-line interface for users to interact with the operating system. The shell supports various features such as command execution, history management, environment variable expansion, redirections, pipes, and built-in commands.
